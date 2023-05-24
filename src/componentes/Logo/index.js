@@ -1,5 +1,5 @@
-import logo from '../../imagens/logo.svg';
-import './estilo.css';
+import logo from '../../imagens/logo.svg'
+import './estilo.css'
 
 function Logo() {
     return (
@@ -10,4 +10,4 @@ function Logo() {
     )
 }
 
-export default Logo;
+export default Logo

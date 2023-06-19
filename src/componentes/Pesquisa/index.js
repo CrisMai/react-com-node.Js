@@ -60,7 +60,7 @@ function Pesquisa() {
     return (
         <PesquisaContainer>
             <Titulo>Já sabe por onde começar?</Titulo>
-            <Subtitulo>Encontrte seu livro em nossa estante.</Subtitulo>
+            <Subtitulo>Encontre seu livro em nossa estante.</Subtitulo>
             <Input
                 placeholder="Escreva sua próxima leitura"
                 onBlur={evento => {
